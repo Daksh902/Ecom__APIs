@@ -7,7 +7,7 @@ This project provides APIs for managing product inventory in an ecommerce platfo
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/Daksh902/Ecom__APIs/tree/main)
     ```
 
 2. Navigate to the project directory:
